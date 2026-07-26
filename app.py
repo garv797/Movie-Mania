@@ -155,3 +155,4 @@ if find_clicked:
         st.error(f"Error: {e}")
 else:
     st.info("👈 Set your preferences in the sidebar, then hit **Get Movie Suggestions**.")
+    
